@@ -1,0 +1,6 @@
+var superHeroes = [
+	["batman", "Bruce Wayne"],
+	["Spiderman", "Peter Parker"],
+	["The Flash", "Barry Allen"]
+]
+
